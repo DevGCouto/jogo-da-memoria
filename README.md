@@ -38,9 +38,6 @@ O layout foi projetado com foco na estética inspirada na Barbie:
 
 Essa combinação oferece uma experiência encantadora, ao mesmo tempo leve e clara para usuários iniciantes.
 
----
-
-## 📁 Estrutura do Projeto
 
 
 
