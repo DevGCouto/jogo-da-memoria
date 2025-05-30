@@ -1,34 +1,47 @@
-# 💖 Jogo da Memória Barbie Edition 💖
-> 🌸 Um jogo fofo e divertido feito com muito carinho para minha priminha de 4anos, que passou o fim de semana aqui em casa e **teve seu primeiros contatos com um mouse e um computador**! 🎀👧  
->  
-> Essa foi minha forma de apresentar o mundo mágico da programação de um jeito lúdico, colorido e cheio de animaizinhos encantadores!
+# Jogo da Memória — Barbie Edition
+
+Um jogo de memória visual desenvolvido com carinho para minha priminha de 4 anos, que passou o final de semana em casa e teve seus primeiros contatos com o computador. A proposta foi introduzir o universo da tecnologia de forma lúdica, acolhedora e divertida.
 
 ---
 
-## Tecnologias usadas
+## 🎯 Objetivo
 
--  **HTML5** para a estrutura
--  **CSS3** com gradiente rosa, glassmorphism e responsividade
--  **JavaScript Vanilla** para a lógica do jogo (sem bibliotecas!)
+Encontrar os pares de cartas idênticas em um tabuleiro com imagens temáticas inspiradas no universo Barbie. O jogo estimula a concentração, memória visual e o raciocínio lógico de forma divertida.
 
 ---
 
-## 💡 Funcionalidades
+## 🚀 Tecnologias Utilizadas
 
-- 💅 Cartas com imagens fofas da Barbie
-- 🎀 Animações suaves de virar cartas
-- 🌟 Feedback visual para acertos e erros
-- 💖 Botão de reset estiloso e moderno
-- 🌈 Design todo inspirado na estética Barbie com gradiente, brilhos e transparências!
+- **HTML5** – Estrutura semântica da aplicação
+- **CSS3** – Estilização com gradientes, efeito glassmorphism e responsividade
+- **JavaScript Vanilla** – Lógica do jogo, manipulação de elementos e interatividade
 
 ---
 
-## Layout
+## ✨ Funcionalidades
 
- 
-
-> 💌 O layout usa **cores vibrantes**, **estética glass**, cantos arredondados e **efeito glow** para criar uma experiência mágica e encantadora. Barbie aprovaria! 😉💅
+- Cartas interativas com imagens personalizadas
+- Animações suaves de abertura e comparação
+- Sistema de feedback visual para pares corretos
+- Design adaptado para diferentes resoluções
+- Botão de reinício estilizado e funcional
 
 ---
+
+## 🎨 Layout e Design
+
+O layout foi projetado com foco na estética inspirada na Barbie:  
+- Gradientes rosa e lilás com suavidade visual  
+- Cartas com bordas arredondadas e animações suaves  
+- Container principal com efeito de vidro (glassmorphism)  
+- Tipografia amigável e moderna  
+
+Essa combinação oferece uma experiência encantadora, ao mesmo tempo leve e clara para usuários iniciantes.
+
+---
+
+## 📁 Estrutura do Projeto
+
+
 
 
