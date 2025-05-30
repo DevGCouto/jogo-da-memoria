@@ -4,7 +4,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: linear-gradient(rgba(237, 55, 225, 0.7), rgba(253, 185, 255, 0.7)), 
-                url('src/images/background.jpg');
+                url('./src/images/background.jpg');
      background-repeat: no-repeat, no-repeat;
     background-position: center center, left center;
     background-size: cover, 400px auto;
